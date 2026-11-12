@@ -2,6 +2,9 @@
 
 上海交通大学 AI+ 教育平台《Hello, AI · 人工智能导论》的整书零基础学习系统。单文件总入口 `index.html`，手机和电脑都能直接打开；也可整套推到 GitHub Pages。
 
+**线上站点**：https://zrx-11.github.io/hello-ai-zhishu/  
+**仓库**：https://github.com/zrx-11/hello-ai-zhishu
+
 ## 这是什么
 
 - **整书覆盖**：14 章正文 + 6 篇专题 + 110 条术语。
