@@ -1,0 +1,102 @@
+[
+ {
+  "check": "首页渲染",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "书卡数量",
+  "pass": true,
+  "extra": "1/1"
+ },
+ {
+  "check": "总览页：总览：从零基础到能判断 AI",
+  "pass": true,
+  "extra": "1197 字符"
+ },
+ {
+  "check": "hello-ai 首章渲染",
+  "pass": true,
+  "extra": "2712 字符"
+ },
+ {
+  "check": "hello-ai 末章渲染",
+  "pass": true,
+  "extra": "2059 字符"
+ },
+ {
+  "check": "hello-ai 测验题数",
+  "pass": true,
+  "extra": "60 题"
+ },
+ {
+  "check": "hello-ai 测验正确反馈",
+  "pass": true,
+  "extra": "✓ 正确"
+ },
+ {
+  "check": "hello-ai 测验解析",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "抽认卡正面有内容",
+  "pass": true,
+  "extra": "用自己的话说，「AI 与 AI 效应」是什么、解"
+ },
+ {
+  "check": "抽认卡翻转",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "认识计数增加",
+  "pass": true,
+  "extra": "1"
+ },
+ {
+  "check": "术语表过滤",
+  "pass": true,
+  "extra": "共110 过滤后1（人工智能）"
+ },
+ {
+  "check": "全局搜索命中",
+  "pass": true,
+  "extra": "3 条"
+ },
+ {
+  "check": "进度跨刷新持久",
+  "pass": true,
+  "extra": "《Hello, AI · 人工智能导论》 进度 15% · 已学 3/20 章 → 《Hello, AI · 人工智能导论》 进度 15% · 已学 3/20 章"
+ },
+ {
+  "check": "学习路径完成标记",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "诊断页可打开",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "深度片段（本书无，跳过）",
+  "pass": true,
+  "extra": "本书无深度片段"
+ },
+ {
+  "check": "出处脚注存在",
+  "pass": true,
+  "extra": "1 处"
+ },
+ {
+  "check": "深色模式",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "check": "控制台无错误",
+  "pass": true,
+  "extra": ""
+ }
+]
